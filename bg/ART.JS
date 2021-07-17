@@ -1,2 +1,5 @@
-ellipse(200, 200, 200, 200);
-strokeWeight(20);
+function DrawEllipse() 
+{
+    ellipse(200, 200, 200, 200);
+    strokeWeight(20);
+}
