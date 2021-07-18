@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-msedge",
+            "name": "https://green-dune-04e2bb810.azurestaticapps.net/",
+            "request": "launch",
+            "url": "https://green-dune-04e2bb810.azurestaticapps.net/"
+        }
+    ]
+}
